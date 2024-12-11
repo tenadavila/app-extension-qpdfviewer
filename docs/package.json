@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.13.5",
-    "@quasar/quasar-ui-qpdfviewer": "link:./app-extension",
+    "@quasar/quasar-ui-qpdfviewer": "file:./app-extension",
     "core-js": "^3.22.0",
     "quasar": "^2.6.6",
     "quasar-ui-example-viewer": "^2.0.0-alpha.9",
